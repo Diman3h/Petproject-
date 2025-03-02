@@ -8,3 +8,6 @@
 ## Компиляция
 
 1. Компиляция через mingw компилятор gcc inventory.c -o inventory.exe
+
+## Пример записи
+![image_2025-01-19_17-04-44](https://github.com/user-attachments/assets/f44f21c6-36fd-4ddf-b97f-f42de8df3b48)
